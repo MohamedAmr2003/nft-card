@@ -20,7 +20,7 @@ background-color: var(--main-BG);
 
 .container{
     display: flex;
-    margin-top: 20px;
+    margin-top: 40px;
     justify-content: center;
 }
 
